@@ -19,7 +19,7 @@ Upgrading Maslow 4.0 to 4.1
       - https://github.com/BarbourSmith/FluidNC/releases/
 - Calibration walkthrough, https://www.youtube.com/watch?v=mQwz0omOKJc
 - First Cut tutorial
-   - Some Maslow Coaster/Sign, or, some other useful hello world calibration verifying beginner project (e.g. tool, jig, etc...)?
+   - Some Maslow Coaster/Sign, or, some other useful calibration verifying beginner project (e.g. tool box/chest for Maslow 4 and related bits/tools.  Or jig, etc...)?
 - Share feedback post build, to help inform design/firmware/doc improvements, maybe a questionnaire like [this](https://forum.v1e.com/t/lr4-how-many-hours-to-build-lr4/45641). 
 
 ## Community tips
